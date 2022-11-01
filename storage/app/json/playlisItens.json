@@ -1,0 +1,376 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "GxVx83Q-N11OTDDPs_1jbKtOJA0",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AYzAc0PlMteRRTt09ZQgM0rgscE",
+            "id": "UExjZ2t1N0RBT1FvOXBnMGR3YXZmNnlyaDEyWjVaam9CYi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2022-01-31T16:05:28Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimento da Dra. Fernanda Alcalá, sobre os cursos do Instituto Diogo Melo.",
+                "description": "Confira o depoimento da Dra. Fernanda Alcalá, sobre os cursos do Instituto Diogo Melo:\n\n\"Esses cursos mudaram a minha vida...\"\n\"Curso online faz toda a diferença...\"\n\"Variedade de técnicas...\".\n\nE você? O que está esperando para investir na sua carreira e obter os melhores resultados?\n\nCadastre-se para as nossas aulas de terça-feira e receba sempre em primeira mão as novidades e lançamentos dos cursos:\nhttps://bit.ly/aulascanalrd",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XG5EFBg7Qpg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XG5EFBg7Qpg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XG5EFBg7Qpg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XG5EFBg7Qpg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XG5EFBg7Qpg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "playlistId": "PLcgku7DAOQo9pg0dwavf6yrh12Z5ZjoBb",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XG5EFBg7Qpg"
+                },
+                "videoOwnerChannelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "videoOwnerChannelId": "UC3YacSWNAvcr2dMv5FD9HyQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "grYDO-lTysD_L3BnAzpkPnrf9HI",
+            "id": "UExjZ2t1N0RBT1FvOXBnMGR3YXZmNnlyaDEyWjVaam9CYi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-01-31T16:05:53Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimento da Dra. Priscila Haddad sobre o curso online de Preenchimento Facial",
+                "description": "Confira o depoimento da Dra. Priscila Haddad sobre o curso online de Preenchimento Facial:\n\"É um curso completo, fascinante!\".\n\"Vale muito à pena!\".\n\n#medicina #medicinaestetica #medicos #medicas #dentistas #cirurgiao #esteticista #preenchimentofacial #curso",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ku_m__ltrjk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ku_m__ltrjk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ku_m__ltrjk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ku_m__ltrjk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ku_m__ltrjk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "playlistId": "PLcgku7DAOQo9pg0dwavf6yrh12Z5ZjoBb",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ku_m__ltrjk"
+                },
+                "videoOwnerChannelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "videoOwnerChannelId": "UC3YacSWNAvcr2dMv5FD9HyQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8013gSGkxQ0QOSlrxTf6Kq-1l_c",
+            "id": "UExjZ2t1N0RBT1FvOXBnMGR3YXZmNnlyaDEyWjVaam9CYi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-01-31T17:57:17Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Portal Diogo Melo | Dra Alexandrina investiu nos Cursos Online e conta a sua experiência",
+                "description": "A Dra Alexandrina investiu nos Cursos Online do Portal Diogo Melo e veio contar a sua experiência para nós.\n\nConfira o vídeo depoimento de mais uma aluna satisfeita, que se dispôs a compartilhar conhecimento, acreditou no aprendizado online e conquistou mais segurança no dia a dia clínico.\n\nE você, está esperando o que para se juntar ao meu time de alunos?\n\nFaça parte do Portal Diogo Melo e mude sua realidade profissional, porque segurança se conquista com conhecimento!\n\nSaiba mais sobre Harmonização Orofacial:\nhttps://www.institutodiogomelo.com.br\n  \nEntre para o nosso canal de telegram: https://t.me/HOF_IDM\n\nAcompanhe o perfil do Instituto Diogo Melo no Instagram: https://bit.ly/IGIDM\n\nSiga o Dr. Diogo Melo no Instagram: https://bit.ly/IGH_O_F\n  \n#HarmonizaçãoOrofacial #HarmonizaçãoFacial\n#InstitutoDiogoMelo #DiogoMelo\n#CursodeHarmonizaçãoFacial #CursodeHarmonizaçãoOrofacial\n#EspecialistaemHarmonização #CursodeHOF\n#PortaDiogoMelo #Depoimentos #CursosOnline",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FGshvC3fRgY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FGshvC3fRgY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FGshvC3fRgY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FGshvC3fRgY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FGshvC3fRgY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "playlistId": "PLcgku7DAOQo9pg0dwavf6yrh12Z5ZjoBb",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FGshvC3fRgY"
+                },
+                "videoOwnerChannelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "videoOwnerChannelId": "UC3YacSWNAvcr2dMv5FD9HyQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PiT9xWzyLYxpe3f5HPSHg6LpEyw",
+            "id": "UExjZ2t1N0RBT1FvOXBnMGR3YXZmNnlyaDEyWjVaam9CYi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-01-31T17:59:43Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Curso de Preenchimento OroFacial - Depoimento Dr João Luiz Valença",
+                "description": "Quero agradecer ao Dr João Luiz Valença pela bela palavra sobre o meu curso, fique até emocionado quando ele fala doo conhecimento Técnico e cientifico que entrego no curso.\n\nEspero que a cada dia eu possa entregar mais e o melhor conteúdo.\n\nSaiba mais sobre Harmonização Orofacial:\nhttps://www.institutodiogomelo.com.br\n  \nEntre para o nosso canal de telegram: https://t.me/HOF_IDM\n\nAcompanhe o perfil do Instituto Diogo Melo no Instagram: https://bit.ly/IGIDM\n\nSiga o Dr. Diogo Melo no Instagram: https://bit.ly/IGH_O_F\n  \n#HarmonizaçãoOrofacial #HarmonizaçãoFacial\n#InstitutoDiogoMelo #DiogoMelo\n#CursodeHarmonizaçãoFacial #CursodeHarmonizaçãoOrofacial\n#EspecialistaemHarmonização #CursodeHOF\n#cursodepreenchimentodrdiogomelo #acidohialuronico #aplicaçaodepreechimento",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kE8DbONTAt4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kE8DbONTAt4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kE8DbONTAt4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kE8DbONTAt4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kE8DbONTAt4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "playlistId": "PLcgku7DAOQo9pg0dwavf6yrh12Z5ZjoBb",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kE8DbONTAt4"
+                },
+                "videoOwnerChannelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "videoOwnerChannelId": "UC3YacSWNAvcr2dMv5FD9HyQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cJ8CmjI8uwXW8wg1CractCGWH6g",
+            "id": "UExjZ2t1N0RBT1FvOXBnMGR3YXZmNnlyaDEyWjVaam9CYi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-01-31T18:01:14Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimento do Dr. Luis Fernando Gomes",
+                "description": "Nesse Final de Semana a palavra é sua!\nHoje, quem assume é o querido Dr. Luis Fernando Gomes\n\nGostou? E você, quer enviar sua opinião?\nEntre em contato por mensagem porque queremos ver você aqui.\n\nSaiba mais sobre Harmonização Orofacial:\nhttps://www.institutodiogomelo.com.br\n  \nEntre para o nosso canal de telegram: https://t.me/HOF_IDM\n\nAcompanhe o perfil do Instituto Diogo Melo no Instagram: https://bit.ly/IGIDM\n\nSiga o Dr. Diogo Melo no Instagram: https://bit.ly/IGH_O_F\n \n#InstitutoDiogoMelo #DiogoMelo\n#EspecialistaemHarmonização #CursodeHOF",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c3S7RnCrEWg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c3S7RnCrEWg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c3S7RnCrEWg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c3S7RnCrEWg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c3S7RnCrEWg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "playlistId": "PLcgku7DAOQo9pg0dwavf6yrh12Z5ZjoBb",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "c3S7RnCrEWg"
+                },
+                "videoOwnerChannelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "videoOwnerChannelId": "UC3YacSWNAvcr2dMv5FD9HyQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ppmhqnbFTMZJH3EZX8eauPx1vPE",
+            "id": "UExjZ2t1N0RBT1FvOXBnMGR3YXZmNnlyaDEyWjVaam9CYi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-01-31T18:04:50Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimento da Dra. Cristiane Lopes.",
+                "description": "Nesse Domingo a palavra é sua!\nHoje, quem assume é a querida Dra. Cristiane Lopes\n\nGostou? E você, quer enviar sua opinião?\nEntre em contato por mensagem porque queremos ver você aqui.\n\nSaiba mais sobre Harmonização Orofacial:\nhttps://www.institutodiogomelo.com.br\n  \nEntre para o nosso canal de telegram: https://t.me/HOF_IDM\n\nAcompanhe o perfil do Instituto Diogo Melo no Instagram: https://bit.ly/IGIDM\n\nSiga o Dr. Diogo Melo no Instagram: https://bit.ly/IGH_O_F\n \n#InstitutoDiogoMelo #DiogoMelo\n#EspecialistaemHarmonização #CursodeHOF",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zyCwGLpkBj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zyCwGLpkBj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zyCwGLpkBj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zyCwGLpkBj4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "playlistId": "PLcgku7DAOQo9pg0dwavf6yrh12Z5ZjoBb",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zyCwGLpkBj4"
+                },
+                "videoOwnerChannelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "videoOwnerChannelId": "UC3YacSWNAvcr2dMv5FD9HyQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "L91AwPSmF2bQVSgKZcZ70NECYVQ",
+            "id": "UExjZ2t1N0RBT1FvOXBnMGR3YXZmNnlyaDEyWjVaam9CYi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-01-31T18:05:25Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimento direto da Venezuela pela Dra. Yuleixi Andarsia em Espanhol",
+                "description": "Nesse Sábado a palavra é sua!\nHoje, quem assume é a querida Dra. Yuleixi Andarsia ela é da Venezuela e vem nos das o seu depoimento em Espanhol mesmo.\n\nGostou? E você, quer enviar sua opinião?\nEntre em contato por mensagem porque queremos ver você aqui.\n\nSaiba mais sobre Harmonização Orofacial:\nhttps://www.institutodiogomelo.com.br\n  \nEntre para o nosso canal de telegram: https://t.me/HOF_IDM\n\nAcompanhe o perfil do Instituto Diogo Melo no Instagram: https://bit.ly/IGIDM\n\nSiga o Dr. Diogo Melo no Instagram: https://bit.ly/IGH_O_F\n \n#InstitutoDiogoMelo #DiogoMelo\n#EspecialistaemHarmonização #CursodeHOF",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9SBAF9t2r1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9SBAF9t2r1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9SBAF9t2r1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9SBAF9t2r1Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "playlistId": "PLcgku7DAOQo9pg0dwavf6yrh12Z5ZjoBb",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9SBAF9t2r1Q"
+                },
+                "videoOwnerChannelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "videoOwnerChannelId": "UC3YacSWNAvcr2dMv5FD9HyQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bLYVDbra4P5-lzyRaQ8TFK0Z424",
+            "id": "UExjZ2t1N0RBT1FvOXBnMGR3YXZmNnlyaDEyWjVaam9CYi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-01-31T18:06:41Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimento Dra Jhenifer",
+                "description": "Domingo é aquele dia que a gente troca de lugar, coloca o vídeo e fica assistindo vocês falando com uma grande felicidade e alegria.\n\nVai lá Jhenifer! Hoje a palavra é toda sua. Solta a voz!\n\nE você, quer enviar sua opinião sobre o Instituto Diogo Melo?\nEntre em contato por mensagem que vamos adorar te ver aqui.\n\n#Depoimento #HarmonizaçãoFacial #HarmonizaçãoOroFacial #Harmonização #Preenchimento #PreenchimentoFacial #DiogoMelo #HOF #PreenchimentoNasal #PreenchimentoLabial #PreenchimentoDoMalar #ToxinaBotulínica #FiosDePDO #FiosPDOBrasil #FiosDeSustentação #Intercorrências #PeelingQuímico #Curso #Cursos",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qITwR4Q3ytA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qITwR4Q3ytA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qITwR4Q3ytA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qITwR4Q3ytA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qITwR4Q3ytA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "playlistId": "PLcgku7DAOQo9pg0dwavf6yrh12Z5ZjoBb",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qITwR4Q3ytA"
+                },
+                "videoOwnerChannelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "videoOwnerChannelId": "UC3YacSWNAvcr2dMv5FD9HyQ"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 8,
+        "resultsPerPage": 50
+    }
+}

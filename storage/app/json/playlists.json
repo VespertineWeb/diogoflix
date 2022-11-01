@@ -1,0 +1,1738 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "XV0R-JLF84msJDOYkecB2oWsj2Y",
+    "pageInfo": {
+        "totalResults": 41,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "86s6JjYcoJzXWJoWN-8iii3O75I",
+            "id": "PLcgku7DAOQo9pg0dwavf6yrh12Z5ZjoBb",
+            "snippet": {
+                "publishedAt": "2022-01-31T16:05:21Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimento sobe o Curso de Preenchimento Facial",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XG5EFBg7Qpg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XG5EFBg7Qpg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XG5EFBg7Qpg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XG5EFBg7Qpg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XG5EFBg7Qpg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Depoimento sobe o Curso de Preenchimento Facial",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "d7s5gQbjExryjFNQv5jVxPQoyjs",
+            "id": "PLcgku7DAOQo-Nf2sxXlBZGcrne--_e9jG",
+            "snippet": {
+                "publishedAt": "2022-01-31T13:00:48Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimento sobre o curso de Anatomia e intercorrência na HOF",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YN8OzWhP_NE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YN8OzWhP_NE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YN8OzWhP_NE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YN8OzWhP_NE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YN8OzWhP_NE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Depoimento sobre o curso de Anatomia e intercorrência na HOF",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "OER34edy__VXuP-jFxq5gHhkTsE",
+            "id": "PLcgku7DAOQo9SzTPWeO6FYyAjLDFQ03ym",
+            "snippet": {
+                "publishedAt": "2022-01-31T12:05:08Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimento sobre o Curso de Toxina Botulínica",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cR7Wl6u8rAs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cR7Wl6u8rAs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cR7Wl6u8rAs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cR7Wl6u8rAs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cR7Wl6u8rAs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Depoimento sobre o Curso de Toxina Botulínica",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "_8WGXcG5r6IjmHJhDeMYfPVYZfQ",
+            "id": "PLcgku7DAOQo_p54SUSgyWKoAay-GLaLJx",
+            "snippet": {
+                "publishedAt": "2022-01-31T11:59:26Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimentos sobre o Curso de Peeling Químico Instituto Diogo Melo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LuIez_Y1eKA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LuIez_Y1eKA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LuIez_Y1eKA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LuIez_Y1eKA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LuIez_Y1eKA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Depoimentos sobre o Curso de Peeling Químico Instituto Diogo Melo",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "6rrmFUdlXjC8tvgh8OBL4RDPagw",
+            "id": "PLcgku7DAOQo8R2ZmkhflZLhV0ZQdnvR4d",
+            "snippet": {
+                "publishedAt": "2021-12-07T21:43:52Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Aulas de Terça-Feira - Dr Diogo Melo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jkqPYesppE8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jkqPYesppE8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jkqPYesppE8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jkqPYesppE8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jkqPYesppE8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Aulas de Terça-Feira - Dr Diogo Melo",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Db-p6-CIRMh6S8M0q3vXXmJLG8Q",
+            "id": "PLcgku7DAOQo_2-zrDe9k6lT6oPlS6PD2q",
+            "snippet": {
+                "publishedAt": "2021-10-23T13:54:04Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Jornada de Fios e Biosestimuladores",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Jornada de Fios e Biosestimuladores",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "0ZdCgoJH7mHLJBaoKEoQeha9HHU",
+            "id": "PLcgku7DAOQo9SSs_pIpiN0Y6W-vStEdy2",
+            "snippet": {
+                "publishedAt": "2021-09-14T14:15:44Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Pesquisas para geração de conteúdo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MTRyGY-J3gU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MTRyGY-J3gU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MTRyGY-J3gU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MTRyGY-J3gU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MTRyGY-J3gU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Pesquisas para geração de conteúdo",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "cxc9z9_WrPTL5ME6edQvlkttO1E",
+            "id": "PLcgku7DAOQo9pmWGzeYoFx4giPLvVBzg2",
+            "snippet": {
+                "publishedAt": "2021-07-29T19:45:47Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Preenchimento de Nariz (Rinomodelação)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1T9C1O5Drdk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1T9C1O5Drdk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1T9C1O5Drdk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1T9C1O5Drdk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1T9C1O5Drdk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Preenchimento de Nariz (Rinomodelação)",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Hni1cgvSxSD2iX90j54k2VNFlcI",
+            "id": "PLcgku7DAOQo_uYjIUQTR1l_ErR0jK2Wxq",
+            "snippet": {
+                "publishedAt": "2021-07-29T17:53:44Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Intercorrências na HOF como evita-las",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Intercorrências na HOF como evita-las",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "62QpStHMVisf3fMQe3KcOtvbrXQ",
+            "id": "PLcgku7DAOQo-J792vJtQy0ZdzXG0QDW4-",
+            "snippet": {
+                "publishedAt": "2021-02-17T23:19:58Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimentos aula",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cMeK_Fcg1GQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cMeK_Fcg1GQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cMeK_Fcg1GQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cMeK_Fcg1GQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cMeK_Fcg1GQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Depoimentos aula",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "4_yeqhSRUt-FRQseBhZfP4cjypo",
+            "id": "PLcgku7DAOQo9X1p1m_JyKYEw6-5iGVgqu",
+            "snippet": {
+                "publishedAt": "2020-08-18T17:01:19Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Comemorações",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/giCu5vofd2Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/giCu5vofd2Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/giCu5vofd2Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/giCu5vofd2Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Comemorações",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "b6i7DAIcMuctYjEFsx2EOXgrqcI",
+            "id": "PLcgku7DAOQo-l_8yZMkb_xZss6Xh_9dfX",
+            "snippet": {
+                "publishedAt": "2020-08-04T14:25:09Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Anatomia Facial",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UveJs3cVfEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UveJs3cVfEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UveJs3cVfEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UveJs3cVfEk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UveJs3cVfEk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Anatomia Facial",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "pN4q9aKtRYiVJ8hdqSB7KHD3uwU",
+            "id": "PLcgku7DAOQo9DGMjEOjuVXaTB6I1RXBki",
+            "snippet": {
+                "publishedAt": "2020-06-25T16:59:35Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Preenchimento Mandíbula",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1yTIdhbac3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1yTIdhbac3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1yTIdhbac3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1yTIdhbac3Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1yTIdhbac3Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Preenchimento Mandíbula",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "VZ2xLGI9tpaaP0mGmjepjqgJss8",
+            "id": "PLcgku7DAOQo-yFiaG_vHgXeMjQ7OtiR93",
+            "snippet": {
+                "publishedAt": "2020-05-12T22:30:40Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Eventos que o Instituto Diogo Melo participou",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MiLlVA6mTSU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MiLlVA6mTSU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MiLlVA6mTSU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MiLlVA6mTSU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MiLlVA6mTSU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Eventos que o Instituto Diogo Melo participou",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "B5esG26xX5AfHImE6QvuLp4Cnrc",
+            "id": "PLcgku7DAOQo8-hzaDu0Z_--YJ8xvqMI3V",
+            "snippet": {
+                "publishedAt": "2020-05-12T22:23:39Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "HOF no Divã (Entrevistas com os Melhores profissionais da Harmonização Facial)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hnpzcyuTonI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hnpzcyuTonI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hnpzcyuTonI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hnpzcyuTonI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hnpzcyuTonI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "HOF no Divã (Entrevistas com os Melhores profissionais da Harmonização Facial)",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "c-RJJE4kWuuD2rNJGgzVNGIfdJY",
+            "id": "PLcgku7DAOQo-QrieZsf0yxZCkLwIvCXWg",
+            "snippet": {
+                "publishedAt": "2020-04-13T19:52:18Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Biossegurança",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NBT1iPlHHHw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NBT1iPlHHHw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NBT1iPlHHHw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NBT1iPlHHHw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NBT1iPlHHHw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Biossegurança",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "4ldihJ8GVTbrG3lF8UibiQf_HSA",
+            "id": "PLcgku7DAOQo88xCFfuz_sBknnMnZR6gim",
+            "snippet": {
+                "publishedAt": "2020-03-26T17:29:58Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Anamnese",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V6xjE3T4Ng8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V6xjE3T4Ng8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V6xjE3T4Ng8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V6xjE3T4Ng8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/V6xjE3T4Ng8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Anamnese",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "o8hgejc78vGXioRNtDXZVHgLOmw",
+            "id": "PLcgku7DAOQo-9YvXW2pJyJ3cWL2LTwan5",
+            "snippet": {
+                "publishedAt": "2020-01-28T00:19:55Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Qual Gel de Ácido Hialurônico usar?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uCt7zUTmLHI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uCt7zUTmLHI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uCt7zUTmLHI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uCt7zUTmLHI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uCt7zUTmLHI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Qual Gel de Ácido Hialurônico usar?",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "4aqIdQm18p3W6Cl-fF7gz267iGM",
+            "id": "PLcgku7DAOQo9vCZsCSkqQ3aHMKCwUl3OH",
+            "snippet": {
+                "publishedAt": "2019-12-06T15:22:16Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimentos para os Cursos do Instituto Diogo Melo",
+                "description": "O que os profissionais que fizeram os cursos do Instituto Diogo Melo (Toxina, Preenchimento, Fio, Peeling, intercorrência, anatomia para Harmonização e outros)  dizem sobre a qualidade dos cursos ministrado.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k5iDPtrBxyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k5iDPtrBxyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k5iDPtrBxyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k5iDPtrBxyQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k5iDPtrBxyQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Depoimentos para os Cursos do Instituto Diogo Melo",
+                    "description": "O que os profissionais que fizeram os cursos do Instituto Diogo Melo (Toxina, Preenchimento, Fio, Peeling, intercorrência, anatomia para Harmonização e outros)  dizem sobre a qualidade dos cursos ministrado."
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "WmrhYE_DYqrxsBjCAfoG8mbZmg4",
+            "id": "PLcgku7DAOQo-Hr8Wi2cB4L30DK-GH-r27",
+            "snippet": {
+                "publishedAt": "2019-05-31T13:42:49Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Especialização em Harmonização Orofacial",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tn-5jv_qb-8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tn-5jv_qb-8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tn-5jv_qb-8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tn-5jv_qb-8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tn-5jv_qb-8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Especialização em Harmonização Orofacial",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "7FU4HIb5H2RgDGru0PR1Fg2omk0",
+            "id": "PLcgku7DAOQo8ywGx_I_ai4geqKzuWoPy6",
+            "snippet": {
+                "publishedAt": "2019-05-08T15:08:52Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Dicas de Materiais",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xvWwITDn5jc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xvWwITDn5jc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xvWwITDn5jc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xvWwITDn5jc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xvWwITDn5jc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Dicas de Materiais",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "vgYqiuNxtmj2x8ZExbKCcagP_-s",
+            "id": "PLcgku7DAOQo-38LZZdqXz4ZrMKx66AolR",
+            "snippet": {
+                "publishedAt": "2019-03-14T13:39:13Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Estratégias de Atendimento",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iYAtbUTdqXI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iYAtbUTdqXI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iYAtbUTdqXI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iYAtbUTdqXI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iYAtbUTdqXI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Estratégias de Atendimento",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Va7ME4AGQFIzfOYcdxQZoFuc0Zc",
+            "id": "PLcgku7DAOQo-YsiUxWzR-a20qC_IwuaSm",
+            "snippet": {
+                "publishedAt": "2019-03-01T16:24:37Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Mesobotox",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rF8abIeG700/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rF8abIeG700/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rF8abIeG700/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rF8abIeG700/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rF8abIeG700/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Mesobotox",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "IUx5V2bIzO6vOH2T5EDUaIYTUrI",
+            "id": "PLcgku7DAOQo-40fmATLI0__62jmMf1LWd",
+            "snippet": {
+                "publishedAt": "2019-02-25T15:46:24Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Preenchimento Labial",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qHaVGa-bEoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qHaVGa-bEoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qHaVGa-bEoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qHaVGa-bEoY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qHaVGa-bEoY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Preenchimento Labial",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "PipSp_43YBdnWRxTQPH3vHBoktc",
+            "id": "PLcgku7DAOQo_B7_wYNosfaSSiupZW0dPq",
+            "snippet": {
+                "publishedAt": "2019-02-19T16:34:03Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "CIOSP",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fusBm4q35z4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fusBm4q35z4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fusBm4q35z4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fusBm4q35z4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fusBm4q35z4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "CIOSP",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Q4UapSZhwBcolm7GxSlaXKAGT_U",
+            "id": "PLcgku7DAOQo8t1-GRL0ZL3wl-mTh_vttD",
+            "snippet": {
+                "publishedAt": "2019-01-08T15:20:56Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Dica de Medicamentos",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3LILgzphCBo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3LILgzphCBo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3LILgzphCBo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3LILgzphCBo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3LILgzphCBo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Dica de Medicamentos",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "T34dujsP24ElLRN9iu9wGf7uixg",
+            "id": "PLcgku7DAOQo833xjely8NRz4MAsr5xXJr",
+            "snippet": {
+                "publishedAt": "2018-09-19T13:41:05Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Intercorrências na Harmonização Orofacial",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qgRGtbTZM28/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qgRGtbTZM28/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qgRGtbTZM28/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qgRGtbTZM28/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qgRGtbTZM28/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Intercorrências na Harmonização Orofacial",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "TWDvl0Gp8Wg2bXT2WLdKlbJ9_Ik",
+            "id": "PLcgku7DAOQo9KDAp6QWqz678xS7Bw2jm8",
+            "snippet": {
+                "publishedAt": "2018-07-30T15:58:44Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Harmonização Facial",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/goC_3Qdqlp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/goC_3Qdqlp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/goC_3Qdqlp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/goC_3Qdqlp0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/goC_3Qdqlp0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Harmonização Facial",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "uXVwXQDfBSIMBK-BtcKGJg0zVJk",
+            "id": "PLcgku7DAOQo93cZbMxuNOcPIsenRT3mf3",
+            "snippet": {
+                "publishedAt": "2018-07-26T16:18:18Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Curso de Preenchimento OroFacial - Depoimento",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Tebvk8Vr5Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Tebvk8Vr5Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Tebvk8Vr5Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6Tebvk8Vr5Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6Tebvk8Vr5Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Curso de Preenchimento OroFacial - Depoimento",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "3_xbzk0n9ctVr4P1t1GX7P24t0Q",
+            "id": "PLcgku7DAOQo_gaaUPOB6sS9jYWeczyyPo",
+            "snippet": {
+                "publishedAt": "2018-06-14T14:46:03Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Planejamento para Harmonização OroFacial",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XyEZuN0H5Us/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XyEZuN0H5Us/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XyEZuN0H5Us/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XyEZuN0H5Us/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XyEZuN0H5Us/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Planejamento para Harmonização OroFacial",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "pk1xXxzq2elPDHoMuwdId2nwr08",
+            "id": "PLcgku7DAOQo9tSGj9Cv631_zokpMvqiQp",
+            "snippet": {
+                "publishedAt": "2018-06-01T19:08:18Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Fio de Polidioxanona - PDO",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s0d79TvEKJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s0d79TvEKJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s0d79TvEKJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s0d79TvEKJ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s0d79TvEKJ4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Fio de Polidioxanona - PDO",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "pfSxmAojLeXdqnYkOeXmHOmevrk",
+            "id": "PLcgku7DAOQo-M2bpoMt9AXpLefQbpfa1X",
+            "snippet": {
+                "publishedAt": "2018-05-28T14:16:04Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Dicas para Farmacêuticos",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AHOKncCCO9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AHOKncCCO9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AHOKncCCO9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AHOKncCCO9o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AHOKncCCO9o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Dicas para Farmacêuticos",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "XBMrk7Z78drg9pnNxujbiNtgY8k",
+            "id": "PLcgku7DAOQo-ghbrktSh31BjBx9dJxR3x",
+            "snippet": {
+                "publishedAt": "2018-05-28T14:15:38Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Dicas para Biomédicos",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SLdgyzdZFYw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SLdgyzdZFYw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SLdgyzdZFYw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SLdgyzdZFYw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SLdgyzdZFYw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Dicas para Biomédicos",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "0Z59GtnFOYDbgpC5xOH_qaLDy_8",
+            "id": "PLcgku7DAOQo__3UZEN_HBxKVajC-Db72B",
+            "snippet": {
+                "publishedAt": "2018-05-20T17:05:14Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Peeling Químico",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i9onwPqENAg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i9onwPqENAg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i9onwPqENAg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i9onwPqENAg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/i9onwPqENAg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Peeling Químico",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "kbBonLIbCM2IA5gvShk-CrSdbko",
+            "id": "PLcgku7DAOQo_28TXxZAerHKmv5lRQeH1p",
+            "snippet": {
+                "publishedAt": "2018-05-17T03:02:44Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Preenchimento Fácial",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/st7tKF5EjDM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/st7tKF5EjDM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/st7tKF5EjDM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/st7tKF5EjDM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/st7tKF5EjDM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Preenchimento Fácial",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "XWE7GU_2NelpS8fwYvtuQR4npek",
+            "id": "PLcgku7DAOQo82yMFIw129QKYDAYrW4JvT",
+            "snippet": {
+                "publishedAt": "2015-01-03T02:11:26Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Conodonto",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nCtrWe7-cx4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nCtrWe7-cx4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nCtrWe7-cx4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nCtrWe7-cx4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nCtrWe7-cx4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Conodonto",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "FVR6vG6y_u5ULj8uTGqchg8UHZ0",
+            "id": "PLcgku7DAOQo8VHdpF1ZeJpIq-ZOn20NbZ",
+            "snippet": {
+                "publishedAt": "2015-01-03T02:06:58Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Eventos Gravados Ao Vivo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DIwwmK5rP5k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DIwwmK5rP5k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DIwwmK5rP5k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DIwwmK5rP5k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DIwwmK5rP5k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Eventos Gravados Ao Vivo",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "sdDgl_2BspGtNiP6vmzkLEgcLtM",
+            "id": "PLcgku7DAOQo-_qaKdYnFa2r9psqUWzFTC",
+            "snippet": {
+                "publishedAt": "2015-01-03T01:58:55Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Toxina Botulínica",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A7Ba7tLbppY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A7Ba7tLbppY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A7Ba7tLbppY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A7Ba7tLbppY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A7Ba7tLbppY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Toxina Botulínica",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "PrqpV8Uj3WtM9QtGtPjl15c8hr8",
+            "id": "PLcgku7DAOQo_MW8Cfy3Jtt6eesXPbI7HU",
+            "snippet": {
+                "publishedAt": "2015-01-03T01:58:18Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Ácido Hialurônico",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iOiaYti5QuU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iOiaYti5QuU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iOiaYti5QuU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iOiaYti5QuU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iOiaYti5QuU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Ácido Hialurônico",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "RwM4BVcZWLSS_OphwC8eUpoxrqo",
+            "id": "PLcgku7DAOQo-Cxog6Tj0FRzKJuZHyzeYQ",
+            "snippet": {
+                "publishedAt": "2014-08-22T14:08:00Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Entrevistas",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F5QXa4yB8a8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F5QXa4yB8a8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F5QXa4yB8a8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F5QXa4yB8a8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Entrevistas",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "aJoBEe_1CHRo1P4cHacwE8WQ-wA",
+            "id": "PLcgku7DAOQo8ru5XV9b_8W3IvoXUWDRsf",
+            "snippet": {
+                "publishedAt": "2014-07-11T19:06:56Z",
+                "channelId": "UC3YacSWNAvcr2dMv5FD9HyQ",
+                "title": "Depoimentos de Alunos do Curso de Toxina e Preenchimento Facial",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s_J8agyX9Qs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s_J8agyX9Qs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s_J8agyX9Qs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s_J8agyX9Qs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Instituto Diogo Melo de Harmonização Facial",
+                "localized": {
+                    "title": "Depoimentos de Alunos do Curso de Toxina e Preenchimento Facial",
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

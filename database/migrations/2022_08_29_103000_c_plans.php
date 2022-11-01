@@ -15,8 +15,7 @@ return new class extends Migration {
             $table->id();
             $table->string('name');
             $table->double('value');
-            $table->double('quantity');
-            // $table->integer('days');
+            $table->integer('days');
             $table->longText('details')->nullable();
             $table->timestamps();
         });

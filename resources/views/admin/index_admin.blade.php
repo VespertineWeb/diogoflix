@@ -34,7 +34,7 @@
 
 </head>
 
-<body class="bg-theme bg-theme7">
+<body class="bg-theme bg-theme2">
     <!-- wrapper -->
     <div class="wrapper">
         <!--sidebar-wrapper-->
@@ -62,6 +62,20 @@
                     <a href="{{ url('admin/clients') }}">
                         <i class="fa fa-user"></i>
                         <span class=" nav-text">Clientes</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="{{ url('admin/videos') }}">
+                        <i class="fa fa-user"></i>
+                        <span class=" nav-text">Videos</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="{{ url('admin/playlists') }}">
+                        <i class="fa fa-user"></i>
+                        <span class=" nav-text">Playlist</span>
                     </a>
                 </li>
 

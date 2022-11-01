@@ -24,7 +24,7 @@ return new class extends Migration {
             $table->string('type')->default('client');
             $table->string('cell')->nullable();
             $table->string('codigo_assas')->nullable();
-            $table->unsignedBigInteger('sponsor');
+            $table->unsignedBigInteger('sponsor')->nullable();
             $table->rememberToken();
             $table->timestamps();
         });

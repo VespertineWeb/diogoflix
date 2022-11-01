@@ -15,9 +15,8 @@ return new class extends Migration {
             $table->id();
             $table->foreignId('user_id')->constrained('users');
             $table->foreignId('plan_id')->nullable()->constrained('plans');
-            $table->decimal('quantity');
-            $table->decimal('value');
-            $table->string('status')->default('pendente');
+            $table->timestamp('renovation')->nullable();
+            $table->timestamp('expiration')->nullable();
             $table->timestamps();
         });
     }

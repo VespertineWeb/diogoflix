@@ -3,7 +3,9 @@
 namespace App\Http\Controllers;
 
 use App\Models\ClientsModel;
+use App\Models\PlaylistsModel;
 use App\Models\UsersModel;
+use App\Models\VideosModel;
 use App\Src\Plans\PlanClient;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
@@ -13,8 +15,16 @@ class SiteController extends Controller {
 
     private $data = [];
 
-    public function index(Request $request) {
-        return view('site.home_site');
+    public function index() {
+        $playlists = PlaylistsModel::with('videos_youtube_id')->get();
+        $videos = VideosModel::inRandomOrder()->get();
+
+        return view('site.home_site', compact('playlists', 'videos'));
+    }
+
+    public function playlist($id) {
+        $playlist = PlaylistsModel::with('videos_youtube_id')->find($id);
+        return view('site.playlist_site', compact('playlist'));
     }
 
     public function cadastro() {

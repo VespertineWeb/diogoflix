@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Storage;
 
 Route::get('/', [SiteController::class, 'index']);
+Route::get('playlist/{id}', [SiteController::class, 'playlist']);
 
 Route::get('cadastro', [SiteController::class, 'cadastro']);
 

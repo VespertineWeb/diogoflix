@@ -5,8 +5,10 @@ namespace App\Http\Controllers\Admin;
 use App\Http\Requests\StoreUpdatePlaylists;
 use App\Http\Controllers\Controller;
 use App\Models\PlaylistsModel;
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\App;
+use Illuminate\Support\Facades\Storage;
 
 class PlaylistsController extends Controller {
 
@@ -94,6 +96,26 @@ class PlaylistsController extends Controller {
             $this->dados['playlists'] = $playlists;
             $this->dados['titulo'] = 'playlists';
             return view('admin/playlists.playlists_delete', $this->dados);
+        }
+    }
+
+    public function import() {
+        $json_playlists = Storage::get('json/playlists.json');
+        $playlists = json_decode($json_playlists, true);
+        foreach ($playlists['items'] as $item) {
+            $playlist_id = $item['id'];
+            $playlist = PlaylistsModel::where('id_youtube', $playlist_id)->first();
+            if (!$playlist) {
+                PlaylistsModel::insert([
+                    'etag' => $item['etag'],
+                    'id_youtube' => $playlist_id,
+                    'title' => $item['snippet']['title'],
+                    'published_at' => Carbon::parse($item['snippet']['publishedAt']),
+                    'description' => $item['snippet']['description'],
+                    'thumbnail' => $item['snippet']['thumbnails']['default']['url'],
+                    'thumbnails' => isset($item['snippet']['thumbnails']) ? json_encode($item['snippet']['thumbnails']) : '',
+                ]);
+            }
         }
     }
 }

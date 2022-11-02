@@ -69,6 +69,7 @@ Route::middleware(['auth', AuthAdmin::class])->group(function () {
         Route::get('plans/status', [PlansController::class, 'status']);
         Route::resource('plans', PlansController::class);
 
+        Route::get('playlists/import', [PlaylistsController::class, 'import']);
         Route::resource('playlists', PlaylistsController::class);
 
         Route::get('videos/import', Import::class);

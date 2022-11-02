@@ -2,6 +2,11 @@
 @section('title', 'Playlists')
 
 @section('actions')
+
+<a href='<?php echo url('admin/playlists/import') ?>' class='btn btn-primary'>
+    Importar
+</a>
+
 <a href='<?php echo url('admin/playlists/create') ?>' class='btn btn-primary'>
     Cadastrar
 </a>

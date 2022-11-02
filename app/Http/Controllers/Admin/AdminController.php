@@ -6,8 +6,6 @@ use App\Http\Controllers\Controller;
 use App\Models\BoletosModel;
 use App\Models\ClientsModel;
 use App\Models\ParametersModel;
-use App\Src\Transactions\Import;
-use Google_Client;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 
@@ -47,13 +45,5 @@ class AdminController extends Controller {
         $request->session()->invalidate();
         $request->session()->regenerateToken();
         return redirect('/');
-    }
-
-    public function imp(Import $import) {
-        $import->start();
-    }
-
-    public function estrategia() {
-        return view('admin.estrategia');
     }
 }

@@ -97,28 +97,4 @@ class VideosController extends Controller {
             return view('admin/videos.videos_delete', $this->dados);
         }
     }
-    public function import() {
-        $json_playlists = Storage::get('json/playlists.json');
-        $playlists = json_decode($json_playlists, true);
-        foreach ($playlists['items'] as $item) {
-            $playlist_id = $item['id'];
-            $playlist = PlaylistsModel::where('id_youtube', $playlist_id)->first();
-            if (!$playlist) {
-                PlaylistsModel::insert([
-                    'etag' => $item['etag'],
-                    'id_youtube' => $playlist_id,
-                    'title' => $item['snippet']['title'],
-                    'published_at' => Carbon::parse($item['snippet']['publishedAt']),
-                    'description' => $item['snippet']['description'],
-                    'thumbnail' => $item['snippet']['thumbnails']['default']['url'],
-                    'thumbnails' => isset($item['snippet']['thumbnails']) ? json_encode($item['snippet']['thumbnails']) : '',
-                ]);
-            }
-        }
-
-
-
-        $json_playlists = Storage::get('json/playlists.json');
-        $playlists = json_decode($json_playlists, true);
-    }
 }

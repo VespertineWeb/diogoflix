@@ -70,6 +70,8 @@ class Import extends Component {
                     try {
                         VideosModel::create($insert);
                     } catch (Exception $e) {
+                        dump($e->getMessage());
+
                         // dd($insert, $published_at, $item['snippet']['publishedAt']);
                     }
                 }

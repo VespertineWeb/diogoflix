@@ -11,6 +11,7 @@ use App\Http\Controllers\Admin\PlansController;
 use App\Http\Controllers\Admin\PlaylistsController;
 use App\Http\Controllers\Admin\UsersController;
 use App\Http\Controllers\Admin\VideosController;
+use App\Http\Livewire\Import;
 use App\Http\Middleware\AuthAdmin;
 use App\Models\BoletosModel;
 use Illuminate\Support\Facades\Route;
@@ -70,7 +71,7 @@ Route::middleware(['auth', AuthAdmin::class])->group(function () {
 
         Route::resource('playlists', PlaylistsController::class);
 
-        Route::get('videos/import', [VideosController::class, 'import']);
+        Route::get('videos/import', Import::class);
         Route::resource('videos', VideosController::class);
     });
 });

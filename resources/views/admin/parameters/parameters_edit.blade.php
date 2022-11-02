@@ -20,31 +20,13 @@
 
                     <div class='form-row'>
                         <div class='col-md-3'>
-                            <label>Taxa Saque(%)</label>
-                            <input type='text' name='taxa_saque' value='{{ $parameters->taxa_saque ? App\Src\Utils\Utils::moeda3($parameters->taxa_saque)  : old("taxa_saque")  }}' class='form-control moeda'>
+                            <label>key_api_google</label>
+                            <input type='text' name='key_api_google' value='{{ $parameters->key_api_google }}' class='form-control'>
                         </div>
 
-                        <div class='col-md-3'>
-                            <label>Usa Indicação</label>
-                            <br>
-                            <label for="sim">
-                                <input {{  $parameters->usa_indicacao =='sim'? 'checked':''  }} value="sim" id="sim" type='radio' name='usa_indicacao' class='form-contro'>
-                                Sim
-                            </label>
-
-                            <label for="nao">
-                                <input {{  $parameters->usa_indicacao =='nao'? 'checked':''  }} value="nao" id="nao" type='radio' name='usa_indicacao' class='form-contro'>
-                                Não
-                            </label>
-                        </div>
-
-                        <div class='col-md-3'>
-                            <label>Porcent Indicação</label>
-                            <input type='text' name='percent_indicacao' value='<?php echo isset($parameters) ? $parameters->percent_indicacao : old('percent_indicacao') ?>' class='form-control'>
-                        </div>
                     </div>
                     <hr>
-                    <div class='form-row'>
+                    <!-- <div class='form-row'>
                         <div class='col-md-3'>
                             <label>assas_token</label>
                             <input type='text' name='assas_token' value='<?php echo isset($parameters) ? $parameters->assas_token : old('assas_token') ?>' class='form-control'>
@@ -90,7 +72,7 @@
                             <input type='file' name='pix_crt_file' value='' class='form-control'>
                         </div>
                     </div>
-
+ -->
 
                     <div class='form-row'>
                         <div class='col-md-2'>
@@ -99,9 +81,9 @@
                                 Salvar
                             </button>
                         </div>
-                        <a href="{{ url('admin/payments') }}">
+                        <!-- <a href="{{ url('admin/payments') }}">
                             Meios de Pagamento
-                        </a>
+                        </a> -->
                     </div>
 
                 </form>

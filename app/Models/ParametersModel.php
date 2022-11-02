@@ -12,7 +12,7 @@ class ParametersModel extends Model {
     protected $primaryKey = 'id';
 
     protected $fillable = [
-        'taxa_saque', 'title', 'logo', 'sobre',
+        'key_api_google', 'title', 'logo', 'sobre',
         'pix_client_id',
         'pix_client_secret',
         'pix_key_file',

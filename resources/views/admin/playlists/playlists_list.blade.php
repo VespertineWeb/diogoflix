@@ -36,6 +36,7 @@
                 <tr>
                     <th>Thumbnail</th>
                     <th>Title</th>
+                    <th>Vídeos</th>
                     <th>Published At</th>
                     <th></th>
                 </tr>
@@ -47,6 +48,7 @@
                     <tr>
                         <td> <img src="{{ $dado->thumbnail }}" alt=""> </td>
                         <td><?php echo $dado->title; ?></td>
+                        <td><?php echo $dado->videos_youtube_id_count; ?></td>
                         <td><?php echo $dado->published_at; ?></td>
                         <td>
                             <!-- <a href='<?php echo url('admin/playlists/' . $dado->id . '/edit') ?>' class='btn btn-primary btn-xs'>

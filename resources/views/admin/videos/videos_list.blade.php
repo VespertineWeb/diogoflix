@@ -39,17 +39,11 @@
         <table class='table table-bordered table-hover'>
             <thead>
                 <tr>
-                    <th>Etag</th>
-                    <th>Id_youtube</th>
-                    <th>Published_at</th>
-                    <th>Title</th>
-                    <th>Description</th>
                     <th>Thumbnail</th>
-                    <th>Thumbnails</th>
+                    <th>Title</th>
                     <th>Status</th>
-                    <th>PlaylistId</th>
                     <th>Position</th>
-                    <th>VideoId</th>
+                    <th>Published_at</th>
                     <th></th>
                 </tr>
             </thead>
@@ -58,24 +52,18 @@
                 foreach ($videos as $key => $dado) {
                 ?>
                     <tr>
-                        <td><?php echo $dado->etag; ?></td>
-                        <td><?php echo $dado->id_youtube; ?></td>
-                        <td><?php echo $dado->published_at; ?></td>
+                        <td> <img src="{{ $dado->thumbnail }}" alt=""> </td>
                         <td><?php echo $dado->title; ?></td>
-                        <td><?php echo $dado->description; ?></td>
-                        <td><?php echo $dado->thumbnail; ?></td>
-                        <td><?php echo $dado->thumbnails; ?></td>
                         <td><?php echo $dado->status; ?></td>
-                        <td><?php echo $dado->playlistId; ?></td>
                         <td><?php echo $dado->position; ?></td>
-                        <td><?php echo $dado->videoId; ?></td>
+                        <td><?php echo $dado->published_at; ?></td>
                         <td>
-                            <a href='<?php echo url('admin/videos/' . $dado->id . '/edit') ?>' class='btn btn-primary btn-xs'>
+                            <!-- <a href='<?php echo url('admin/videos/' . $dado->id . '/edit') ?>' class='btn btn-primary btn-xs'>
                                 <span class='fa fa-edit'></span>
                             </a>
                             <a href='<?php echo url('admin/videos/' . $dado->id) ?>' class='btn btn-danger btn-xs'>
                                 <span class='fa fa-trash'></span>
-                            </a>
+                            </a> -->
                         </td>
                     </tr>
                 <?php } ?>

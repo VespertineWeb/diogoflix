@@ -62,28 +62,28 @@ class ParametersController extends Controller {
 
     public function update(Request $request) {
         $update = [
-            'taxa_saque' => Utils::moeda($request->taxa_saque),
-            'pix_client_id' => $request->pix_client_id,
-            'pix_client_secret' => $request->pix_client_secret,
-            'pix_url_gerencianet' => $request->pix_url_gerencianet,
-            'gerencianet_chave_pix' => $request->gerencianet_chave_pix,
-            'percent_indicacao' => $request->percent_indicacao,
-            'usa_indicacao' => $request->usa_indicacao,
-            'assas_token' => $request->assas_token,
-            'assas_url' => $request->assas_url,
+            'key_api_google' => $request->key_api_google,
+            // 'pix_client_id' => $request->pix_client_id,
+            // 'pix_client_secret' => $request->pix_client_secret,
+            // 'pix_url_gerencianet' => $request->pix_url_gerencianet,
+            // 'gerencianet_chave_pix' => $request->gerencianet_chave_pix,
+            // 'percent_indicacao' => $request->percent_indicacao,
+            // 'usa_indicacao' => $request->usa_indicacao,
+            // 'assas_token' => $request->assas_token,
+            // 'assas_url' => $request->assas_url,
         ];
 
-        $pix_key_file = $request->file('pix_key_file');
-        if ($pix_key_file) {
-            $pix_key_file->store('keys');
-            $update['pix_key_file'] = $pix_key_file->hashName();
-        }
+        // $pix_key_file = $request->file('pix_key_file');
+        // if ($pix_key_file) {
+        //     $pix_key_file->store('keys');
+        //     $update['pix_key_file'] = $pix_key_file->hashName();
+        // }
 
-        $pix_crt_file = $request->file('pix_crt_file');
-        if ($pix_crt_file) {
-            $pix_crt_file->store('keys');
-            $update['pix_crt_file'] = $pix_crt_file->hashName();
-        }
+        // $pix_crt_file = $request->file('pix_crt_file');
+        // if ($pix_crt_file) {
+        //     $pix_crt_file->store('keys');
+        //     $update['pix_crt_file'] = $pix_crt_file->hashName();
+        // }
 
         $this->parameters->find(1)->update($update);
         return redirect('admin/parameters');

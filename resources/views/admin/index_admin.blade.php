@@ -218,7 +218,7 @@
         <!--End Back To Top Button-->
         <!--footer -->
         <div class="footer">
-            <p class="mb-0">Hertal Gambler@2022- All rights reserved.</a>
+            <p class="mb-0">@2022- All rights reserved.</a>
             </p>
         </div>
         <!-- end footer -->

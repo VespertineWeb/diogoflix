@@ -23,7 +23,7 @@ class Import extends Component {
 
     public function import() {
         $playlists = PlaylistsModel::withCount('videos_youtube_id')
-            ->having('videos_youtube_id_count', '>', 0)
+            // ->having('videos_youtube_id_count', '>', 0)
             ->get();
         $youtube = new GetVideos();
 

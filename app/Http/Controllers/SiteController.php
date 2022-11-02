@@ -16,7 +16,10 @@ class SiteController extends Controller {
     private $data = [];
 
     public function index() {
-        $playlists = PlaylistsModel::with('videos_youtube_id')->get();
+        $playlists = PlaylistsModel::with('videos_youtube_id')
+            ->inRandomOrder()
+            ->get();
+
         $videos = VideosModel::inRandomOrder()->get();
 
         return view('site.home_site', compact('playlists', 'videos'));

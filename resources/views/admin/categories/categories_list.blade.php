@@ -49,12 +49,12 @@
                         <td><?php echo $dado->image; ?></td>
                         <td><?php echo $dado->status; ?></td>
                         <td>
-                            <a href='<?php echo url('admin/categories/' . $dado->id . '/edit') ?>' class='btn btn-primary btn-xs'>
-                                <span class='fa fa-edit'></span>
+                            <a href='<?php echo url('admin/categories/' . $dado->id . '/edit') ?>' class='btn btn-light btn-sm'>
+                                <span class='bx bx-edit'></span>
                             </a>
-                            <a href='<?php echo url('admin/categories/' . $dado->id) ?>' class='btn btn-danger btn-xs'>
+                            <!-- <a href='<?php echo url('admin/categories/' . $dado->id) ?>' class='btn btn-danger btn-xs'>
                                 <span class='fa fa-trash'></span>
-                            </a>
+                            </a> -->
                         </td>
                     </tr>
                 <?php } ?>

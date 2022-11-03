@@ -8,8 +8,8 @@
 
 <div class='form-row'>
     <div class='col-md-4'>
-        <label>Valor</label>
-        <input type='text' name='value' value='{{ $plans->value ?? old("value")  }}' class='form-control'>
+        <label>Valor-</label>
+        <input type='text' name='value' value='{{ $plans->value ?? old("value")  }}' class='form-control moeda'>
     </div>
 
 

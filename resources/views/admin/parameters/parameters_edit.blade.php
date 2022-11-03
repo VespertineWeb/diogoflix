@@ -24,6 +24,11 @@
                             <input type='text' name='key_api_google' value='{{ $parameters->key_api_google }}' class='form-control'>
                         </div>
 
+                        <div class='col-md-3'>
+                            <label>youtube_channel_id</label>
+                            <input type='text' name='youtube_channel_id' value='{{ $parameters->youtube_channel_id }}' class='form-control'>
+                        </div>
+
                     </div>
                     <hr>
                     <!-- <div class='form-row'>

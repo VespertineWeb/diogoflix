@@ -63,6 +63,7 @@ class ParametersController extends Controller {
     public function update(Request $request) {
         $update = [
             'key_api_google' => $request->key_api_google,
+            'youtube_channel_id' => $request->youtube_channel_id,
             // 'pix_client_id' => $request->pix_client_id,
             // 'pix_client_secret' => $request->pix_client_secret,
             // 'pix_url_gerencianet' => $request->pix_url_gerencianet,

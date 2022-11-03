@@ -23,7 +23,8 @@ class ParametersModel extends Model {
         'usa_indicacao',
         'percent_indicacao',
         'assas_token',
-        'assas_url'
+        'assas_url',
+        'youtube_channel_id'
     ];
     protected $date = ['created_at', 'updated_at'];
 }

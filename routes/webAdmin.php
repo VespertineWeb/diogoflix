@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\Admin\AdminController;
 use App\Http\Controllers\Admin\BoletosController;
+use App\Http\Controllers\Admin\CategoriesController;
 use App\Http\Controllers\Admin\ClientsController;
 use App\Http\Controllers\Admin\FaqsController;
 use App\Http\Controllers\Admin\FilesController;
@@ -74,5 +75,6 @@ Route::middleware(['auth', AuthAdmin::class])->group(function () {
 
         Route::get('videos/import', Import::class);
         Route::resource('videos', VideosController::class);
+        Route::resource('categories', CategoriesController::class);
     });
 });

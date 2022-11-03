@@ -65,17 +65,26 @@
                     </a>
                 </li>
 
-                <li>
-                    <a href="{{ url('admin/videos') }}">
-                        <i class="fa fa-user"></i>
-                        <span class=" nav-text">Videos</span>
-                    </a>
-                </li>
 
                 <li>
                     <a href="{{ url('admin/playlists') }}">
                         <i class="fa fa-user"></i>
                         <span class=" nav-text">Playlist</span>
+                    </a>
+                </li>
+
+                <!-- <li>
+                    <a href="{{ url('admin/videos') }}">
+                        <i class="fa fa-user"></i>
+                        <span class=" nav-text">Videos</span>
+                    </a>
+                </li> -->
+
+
+                <li>
+                    <a href="{{ url('admin/categories') }}">
+                        <i class="fa fa-user"></i>
+                        <span class=" nav-text">Categorias</span>
                     </a>
                 </li>
 
@@ -169,7 +178,7 @@
                                         <p class="user-name mb-0">{{ session('user') }}</p>
                                         <p class="designattion mb-0">On-line</p>
                                     </div>
-                                    <img src="{{ asset('assets') }}/img/logo9.png" class="user-img" alt="user avatar">
+                                    <img src="{{ asset('assets') }}/img/avata.png" class="user-img" alt="user avatar">
                                 </div>
                             </a>
                             <div class="dropdown-menu dropdown-menu-right">

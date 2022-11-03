@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Requests\StoreUpdatePlaylists;
 use App\Http\Controllers\Controller;
+use App\Models\CategoriesModel;
 use App\Models\PlaylistsModel;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
@@ -33,9 +34,10 @@ class PlaylistsController extends Controller {
                     $query->where('etag', $request->etag);
                 }
             })
+            ->with('category')
             ->withCount('videos_youtube_id')
             // ->having('videos_youtube_id_count', '>', 5)
-            ->orderby('title')
+            ->orderby('videos_youtube_id_count', 'desc')
             ->paginate();
 
         $this->dados['playlists'] = $playlists;
@@ -75,14 +77,19 @@ class PlaylistsController extends Controller {
      * @return \Illuminate\Http\Response
      */
     public function edit(Request $request, $id) {
+        $this->dados['categories'] = CategoriesModel::orderBy('name')->pluck('name', 'id');
         $playlists = $this->playlists->find($id);
         $this->dados['playlists'] = $playlists;
-        $this->dados['titulo'] = 'playlists';
         return view('admin.playlists.playlists_edit', $this->dados);
     }
 
-    public function update(StoreUpdatePlaylists $request, $id) {
-        $this->playlists->find($id)->update($request->all());
+    public function update(Request $request, $id) {
+        $post = [
+            'status' => $request->status,
+            'category_id' => $request->category_id,
+        ];
+
+        $this->playlists->find($id)->update($post);
         return redirect('admin/playlists');
     }
 

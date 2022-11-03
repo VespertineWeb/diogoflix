@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\CategoriesModel;
 use App\Models\ClientsModel;
 use App\Models\PlaylistsModel;
 use App\Models\UsersModel;
@@ -16,13 +17,18 @@ class SiteController extends Controller {
     private $data = [];
 
     public function index() {
-        $playlists = PlaylistsModel::with('videos_youtube_id')
-            ->inRandomOrder()
+        $playlists_all = PlaylistsModel::orderBy('title')
             ->get();
 
         $videos = VideosModel::inRandomOrder()->get();
+        $categories = CategoriesModel::with('playlists')
+            ->withCount(['playlists' => function ($q) {
+                $q->withCount('videos_youtube_id');
+            }])
+            ->having('playlists_count', '>', 0)
+            ->get();
 
-        return view('site.home_site', compact('playlists', 'videos'));
+        return view('site.home_site', compact('categories', 'videos', 'playlists_all'));
     }
 
     public function playlist($id) {
@@ -34,7 +40,7 @@ class SiteController extends Controller {
         return redirect('cadastrar');
     }
 
-    public function login(Request $request) {
+    public function login() {
         return view('site.login');
     }
 
@@ -91,9 +97,5 @@ class SiteController extends Controller {
 
     public function recupera_senha() {
         return view('site.recupera_senha');
-    }
-
-    public function cliente_painel() {
-        return view('site.cliente_painel');
     }
 }

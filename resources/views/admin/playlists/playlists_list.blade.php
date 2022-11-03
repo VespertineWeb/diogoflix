@@ -3,13 +3,13 @@
 
 @section('actions')
 
-<a href='<?php echo url('admin/playlists/import') ?>' class='btn btn-primary'>
+<a href='<?php echo url('admin/videos/import') ?>' class='btn btn-primary'>
     Importar
 </a>
 
-<a href='<?php echo url('admin/playlists/create') ?>' class='btn btn-primary'>
+<!-- <a href='<?php echo url('admin/playlists/create') ?>' class='btn btn-primary'>
     Cadastrar
-</a>
+</a> -->
 @endsection
 
 @section('content')
@@ -17,7 +17,7 @@
 <div class='card'>
     <div class='card-body'>
 
-        <div class='row'>
+        <!-- <div class='row'>
             <div class='col-md-12'>
                 <form action="" method='get'>
                     @csrf
@@ -34,15 +34,16 @@
                 </form>
             </div>
         </div>
-        <hr>
+        <hr> -->
 
         <table class='table table-bordered table-hover'>
             <thead>
                 <tr>
-                    <th>Thumbnail</th>
-                    <th>Title</th>
+                    <th></th>
+                    <th>Título</th>
+                    <th>Categoria</th>
                     <th>Vídeos</th>
-                    <th>Published At</th>
+                    <th>Data do Vídeo</th>
                     <th></th>
                 </tr>
             </thead>
@@ -51,15 +52,16 @@
                 foreach ($playlists as $key => $dado) {
                 ?>
                     <tr>
-                        <td> <img src="{{ $dado->thumbnail }}" alt=""> </td>
+                        <td> <img src="{{ $dado->thumbnail }}" alt="" style="width: 80px;"> </td>
                         <td><?php echo $dado->title; ?></td>
+                        <td>{{ $dado->category->name ?? '' }}</td>
                         <td><?php echo $dado->videos_youtube_id_count; ?></td>
                         <td><?php echo $dado->published_at; ?></td>
                         <td>
-                            <!-- <a href='<?php echo url('admin/playlists/' . $dado->id . '/edit') ?>' class='btn btn-primary btn-xs'>
-                                <span class='fa fa-edit'></span>
+                            <a href='<?php echo url('admin/playlists/' . $dado->id . '/edit') ?>' class='btn btn-light btn-sm'>
+                                <span class='bx bx-edit'></span>
                             </a>
-                            <a href='<?php echo url('admin/playlists/' . $dado->id) ?>' class='btn btn-danger btn-xs'>
+                            <!-- <a href='<?php echo url('admin/playlists/' . $dado->id) ?>' class='btn btn-danger btn-xs'>
                                 <span class='fa fa-trash'></span>
                             </a> -->
                         </td>

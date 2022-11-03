@@ -16,6 +16,12 @@
     <link rel="stylesheet" href="{{ asset('assets') }}/streamlab/css/style.css" />
     <!--  Responsive -->
     <link rel="stylesheet" href="{{ asset('assets') }}/streamlab/css/responsive.css" />
+
+    <style>
+        :root {
+            --primary-color: rgb(244 24 28);
+        }
+    </style>
 </head>
 
 <body>

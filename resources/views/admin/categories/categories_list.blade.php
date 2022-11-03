@@ -12,7 +12,7 @@
 <div class='card'>
     <div class='card-body'>
 
-        <div class='row'>
+        <!-- <div class='row'>
             <div class='col-md-12'>
                 <form action="" method='get'>
                     @csrf
@@ -29,7 +29,7 @@
                 </form>
             </div>
         </div>
-        <hr>
+        <hr> -->
 
         <table class='table table-bordered table-hover'>
             <thead>

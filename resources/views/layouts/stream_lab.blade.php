@@ -3,8 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="Streamlab - Video Streaming HTML5 Template" />
-    <meta name="description" content="Streamlab - Video Streaming HTML5 Template" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
     <meta name="author" content="StreamLab" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>DiogoFLix</title>
@@ -39,6 +39,12 @@
     <script src="{{ asset('assets') }}/streamlab/js/streamlab-core.js"></script>
 
     <script src="{{ asset('assets') }}/streamlab/js/script.js"></script>
+    <style>
+        :root {
+            --primary-color: rgb(244 24 28);
+        }
+    </style>
+
 </head>
 
 <body>
@@ -160,7 +166,7 @@
                                     </div>
                                 </div>
                                 <div class="gen-btn-container">
-                                    <a href="register.html" class="gen-button">
+                                    <a href="" class="gen-button">
                                         <div class="gen-button-block">
                                             <span class="gen-button-line-left"></span>
                                             <span class="gen-button-text">Subscribe</span>

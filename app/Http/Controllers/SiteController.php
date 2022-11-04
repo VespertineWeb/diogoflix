@@ -107,4 +107,19 @@ class SiteController extends Controller {
         $video = $getVideo->get_by_id($video_id);
         return view('site.video_site', compact('video', 'categories', 'playlists_all'));
     }
+
+    public function diogoflix2() {
+        $playlists_all = PlaylistsModel::orderBy('title')
+            ->get();
+
+        $videos = VideosModel::inRandomOrder()->get();
+        $categories = CategoriesModel::with('playlists')
+            ->withCount(['playlists' => function ($q) {
+                $q->withCount('videos_youtube_id');
+            }])
+            ->having('playlists_count', '>', 0)
+            ->get();
+
+        return view('site.diogoflix2', compact('categories', 'videos', 'playlists_all'));
+    }
 }

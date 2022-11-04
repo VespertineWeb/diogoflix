@@ -366,7 +366,8 @@
                                                                     <div class="dropdown-menu mCustomScrollbar">
                                                                         <div class="mCustomScrollBox">
                                                                             <div class="mCSB_container">
-                                                                                <a class="login-link" href="#">Sign in
+                                                                                <a class="login-link" href="{{ url('video/'.$video->id) }}">
+                                                                                    Sign in
                                                                                     to add this movie to
                                                                                     a
                                                                                     playlist.</a>
@@ -376,7 +377,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="#" class="gen-button">
+                                                                <a href="{{ url('video/'.$video->id) }}" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
@@ -384,13 +385,17 @@
 
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.html">{{ $video->title }}</a></h3>
+                                                                <h3>
+                                                                    <a href="{{ url('video/'.$video->id) }}">
+                                                                        {{ $video->title }}
+                                                                    </a>
+                                                                </h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>2hr 00mins</li>
                                                                     <li>
-                                                                        <a href="#"><span>Action</span></a>
+                                                                        <a href="{{ url('video/'.$video->id) }}"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -444,7 +449,7 @@
                                 <div class="menu-explore-container">
                                     <ul class="menu">
                                         <li class="menu-item">
-                                            <a href="index.html" aria-current="page">Home</a>
+                                            <a href="" aria-current="page">Home</a>
                                         </li>
                                         <li class="menu-item"><a href="movies-pagination.html">Movies</a></li>
                                         <li class="menu-item"><a href="tv-shows-pagination.html">Tv Shows</a></li>

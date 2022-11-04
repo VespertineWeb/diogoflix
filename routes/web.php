@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Storage;
 
 Route::get('/', [SiteController::class, 'index']);
 Route::get('playlist/{id}', [SiteController::class, 'playlist']);
+Route::get('video/{id}', [SiteController::class, 'video']);
 
 Route::get('cadastro', [SiteController::class, 'cadastro']);
 

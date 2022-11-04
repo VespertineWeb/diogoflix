@@ -8,6 +8,7 @@ use App\Models\PlaylistsModel;
 use App\Models\UsersModel;
 use App\Models\VideosModel;
 use App\Src\Plans\PlanClient;
+use App\Src\Youtube\GetVideo;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
@@ -97,5 +98,13 @@ class SiteController extends Controller {
 
     public function recupera_senha() {
         return view('site.recupera_senha');
+    }
+
+    public function video(GetVideo $getVideo, $video_id) {
+        $categories = CategoriesModel::get();
+        $playlists_all = PlaylistsModel::orderBy('title')->get();
+
+        $video = $getVideo->get_by_id($video_id);
+        return view('site.video_site', compact('video', 'categories', 'playlists_all'));
     }
 }
